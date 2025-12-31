@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Shaswat
 
-<!--
-**ShaswatShankar1/ShaswatShankar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student | 4th Semester  
+💻 Learning Python & Machine Learning  
+🎯 Looking for Part-Time / Remote Technical Internship  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python
+- Machine Learning (Beginner)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Python Basics
+- (More ML projects coming soon)
+
+### 🔗 Connect
+- GitHub: https://github.com/ShaswatShankar1
