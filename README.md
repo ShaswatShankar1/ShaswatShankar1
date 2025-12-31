@@ -1,8 +1,11 @@
 ## Hi 👋 I'm Shaswat
 
 🎓 CSE (AI & ML) Student | 4th Semester  
-💻 Learning Python & Machine Learning  
+💻 Python Programmer | Machine Learning Enthusiast 
 🎯 Looking for Part-Time / Remote Technical Internship  
+
+📌 Currently building Machine Learning projects using real datasets.
+
 
 ### 🛠 Skills
 - Python
@@ -10,8 +13,10 @@
 - Git & GitHub
 
 ### 📂 Projects
-- Python Basics
+- • [Python Basics](https://github.com/ShaswatShankar1/python-basics)
+
 - (More ML projects coming soon)
 
 ### 🔗 Connect
 - GitHub: https://github.com/ShaswatShankar1
+  
