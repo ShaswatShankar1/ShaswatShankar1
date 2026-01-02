@@ -1,23 +1,49 @@
-## Hi 👋 I'm Shaswat
+# Hi 👋 I'm Shaswat Shankar
 
-🎓 CSE (AI & ML) Student | 4th Semester  
-💻 Python Programmer | Machine Learning Enthusiast 
-🎯 Looking for Part-Time / Remote Technical Internship  
+🎓 CSE (AI & ML) Undergraduate | 4th Semester  
+💻 Aspiring Machine Learning Engineer  
+📍 India | Open to Remote Internships  
 
-📌 Currently building Machine Learning projects using real datasets.
+---
 
+## 🧠 Skills
+- **Programming:** Python, C  
+- **Machine Learning:** Linear Regression, Logistic Regression, Feature Scaling  
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code  
 
-### 🛠 Skills
-- Python
-- Machine Learning (Beginner)
-- Git & GitHub
+---
 
-### 📂 Projects
-- • [Python Basics](https://github.com/ShaswatShankar1/python-basics)
-- • [house-price-prediction](https://github.com/ShaswatShankar1/house-price-prediction)
+## 📂 Projects
 
-- (More ML projects coming soon)
+### 🏠 House Price Prediction
+- Built a regression model to predict house prices using real-world features  
+- Applied data preprocessing and feature scaling  
+- Evaluated performance using MAE and R²  
 
-### 🔗 Connect
-- GitHub: https://github.com/ShaswatShankar1
+🔗 GitHub: https://github.com/ShaswatShankar1/house-price-prediction
+
+---
+
+### 🎓 Student Performance Prediction
+- Developed a classification model to predict student academic outcomes  
+- Used Logistic Regression with proper preprocessing  
+- Evaluated model accuracy and visualized results  
+
+🔗 GitHub: https://github.com/ShaswatShankar1/student-performance-prediction
+
+---
+
+## 🎯 Currently Learning
+- Advanced Machine Learning algorithms  
+- Model optimization and evaluation  
+- Building end-to-end ML projects  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ShaswatShankar1  
+- LinkedIn: www.linkedin.com/in/shaswat-shankar-07a0ba335 
+- Email: shankarshaswat1@gmail.com
+
   
