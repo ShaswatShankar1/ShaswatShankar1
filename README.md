@@ -33,6 +33,13 @@
 🔗 GitHub: https://github.com/ShaswatShankar1/student-performance-prediction
 
 ---
+### 🎓 Student Feedback Sentiment Analysis (NLP)
+- Built a text classification model using TF-IDF and Logistic Regression to analyze student feedback
+- Implemented NLP preprocessing and model evaluation using scikit-learn
+- Achieved high accuracy in sentiment prediction
+- Tools: Python, NLP, scikit-learn
+
+🔗 Github: https://github.com/ShaswatShankar1/student-feedback-sentiment
 
 ## 🎯 Currently Learning
 - Advanced Machine Learning algorithms  
