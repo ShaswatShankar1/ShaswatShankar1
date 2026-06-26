@@ -1,56 +1,159 @@
 # Hi 👋 I'm Shaswat Shankar
 
-🎓 CSE (AI & ML) Undergraduate | 4th Semester  
-💻 Aspiring Machine Learning Engineer  
-📍 India | Open to Remote Internships  
+## 🚀 AI & Machine Learning Enthusiast | Software Engineering Learner
+
+🎓 B.Tech CSE (AI & ML) Undergraduate
+📍 India
+💻 Passionate about Machine Learning, Full Stack Development, and Software Engineering
+🌱 Currently learning Advanced Machine Learning, React, .NET, and System Design
 
 ---
 
-## 🧠 Skills
-- **Programming:** Python, C  
-- **Machine Learning:** Linear Regression, Logistic Regression, Feature Scaling  
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Tools:** Git, GitHub, VS Code  
+## 💡 About Me
+
+I'm a Computer Science student specializing in Artificial Intelligence & Machine Learning with a strong interest in building intelligent applications and scalable software.
+
+I enjoy working on Machine Learning projects, solving real-world problems, and continuously improving my software engineering skills through hands-on projects and industry simulations.
 
 ---
 
-## 📂 Projects
+# 🛠 Tech Stack
 
-### 🏠 House Price Prediction
-- Built a regression model to predict house prices using real-world features  
-- Applied data preprocessing and feature scaling  
-- Evaluated performance using MAE and R²  
+### Programming Languages
 
-🔗 GitHub: https://github.com/ShaswatShankar1/house-price-prediction
+* Python
+* C
+* JavaScript
+* TypeScript
+* SQL
+
+### Machine Learning
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Data Preprocessing
+* Feature Engineering
+* Model Evaluation
+
+### Web Development
+
+* React.js
+* Redux
+* HTML
+* CSS
+* Styled Components
+
+### Backend
+
+* ASP.NET Core
+* C#
+* REST APIs
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
-### 🎓 Student Performance Prediction
-- Developed a classification model to predict student academic outcomes  
-- Used Logistic Regression with proper preprocessing  
-- Evaluated model accuracy and visualized results  
+# 📂 Featured Projects
 
-🔗 GitHub: https://github.com/ShaswatShankar1/student-performance-prediction
+## 🏠 House Price Prediction
 
----
-### 🎓 Student Feedback Sentiment Analysis (NLP)
-- Built a text classification model using TF-IDF and Logistic Regression to analyze student feedback
-- Implemented NLP preprocessing and model evaluation using scikit-learn
-- Achieved high accuracy in sentiment prediction
-- Tools: Python, NLP, scikit-learn
+* Built a Machine Learning regression model for predicting house prices.
+* Applied feature scaling and preprocessing.
+* Evaluated using MAE and R² Score.
 
-🔗 Github: https://github.com/ShaswatShankar1/student-feedback-sentiment
-
-## 🎯 Currently Learning
-- Advanced Machine Learning algorithms  
-- Model optimization and evaluation  
-- Building end-to-end ML projects  
+🔗 https://github.com/ShaswatShankar1/house-price-prediction
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/ShaswatShankar1  
-- LinkedIn: www.linkedin.com/in/shaswat-shankar-07a0ba335 
-- Email: shankarshaswat1@gmail.com
+## 🎓 Student Performance Prediction
 
-  
+* Classification model using Logistic Regression.
+* Data cleaning and visualization.
+* Performance evaluation using accuracy metrics.
+
+🔗 https://github.com/ShaswatShankar1/student-performance-prediction
+
+---
+
+## 💬 Student Feedback Sentiment Analysis
+
+* NLP project using TF-IDF and Logistic Regression.
+* Text preprocessing and sentiment classification.
+* High accuracy using Scikit-learn.
+
+🔗 https://github.com/ShaswatShankar1/student-feedback-sentiment
+
+---
+
+## 🤖 TalentLens AI
+
+* AI-powered project focused on intelligent data analysis and prediction.
+* Built using Python and Machine Learning techniques.
+
+🔗 https://github.com/ShaswatShankar1/talentlens-ai
+
+---
+
+## 💳 Commonwealth Bank Software Engineering Job Simulation (Forage)
+
+Completed practical software engineering tasks including:
+
+* Modifying an existing .NET backend
+* Working with React & Redux frontend
+* Updating REST API requests
+* Writing unit tests
+* Creating Git branches, commits and Pull Requests
+* Working with MongoDB
+
+**Skills Gained**
+
+* C#
+* ASP.NET Core
+* React
+* Redux
+* TypeScript
+* REST APIs
+* MongoDB
+* Unit Testing
+* Git & GitHub
+
+---
+
+# 🏆 Certifications
+
+✔ Commonwealth Bank Software Engineering Job Simulation (Forage)
+
+---
+
+# 📈 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* System Design
+* React Ecosystem
+* ASP.NET Core
+* Data Structures & Algorithms
+
+---
+
+# 📫 Connect with Me
+
+📧 Email: [shankarshaswat1@gmail.com](mailto:shankarshaswat1@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/shaswat-shankar-07a0ba335
+
+💻 GitHub:
+https://github.com/ShaswatShankar1
+
+---
+
+⭐ Always open to internships, collaborations, and exciting opportunities in AI, ML, and Software Engineering.
